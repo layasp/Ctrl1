@@ -7,5 +7,4 @@
             document.getElementById("sub").innerHTML =("Try again <3");
             document.getElementById("mongo").value="";
         }
-        clickcount = clickcount + 1;
-    }
+     }
