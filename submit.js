@@ -4,7 +4,7 @@
         document.getElementById("sub").innerHTML = "Your next location is The Orb";
         }
         else {
-            document.getElementById("sub").innerHTML =("Try again <3");
+            document.getElementById("sub").innerHTML ="Try again <3";
             document.getElementById("mongo").value="";
         }
      }
